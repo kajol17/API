@@ -1,0 +1,15 @@
+{
+  "name": "todoback",
+  "version": "1.0.0",
+  "description": "to do app backend\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kajol",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "body-parser": "*"
+  }
+}
